@@ -2,10 +2,10 @@
 
 
 
-- 🔭 I’m currentley working on Memoir! 
+- 🔭 I’m currently working on Memoir! 
 - ⚡ Recentley my team and I  placed first at Hack the North 2021 and Second at Hack Western!
 - 💬 I've built  and deployed two full stack, MERN applications and currentley working on a third
-- ⚡ In my free time I like to dable with data science and statistics
+- ⚡ In my free time I like to dabble with data science and statistics
 
 
 
