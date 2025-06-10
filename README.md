@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on Memoir! 
-- 💬 I've built  and deployed two full stack, MERN applications and currentley working on a third
-- ⚡ In my free time I like to dabble with data science and statistics
+- iOS + Fullstack development
 
+- ![My stats if you care](https://github-readme-stats.vercel.app/api?username=dg022&count_private=true&theme=onedark)      |  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dg022&theme=dark)
+:-------------------------:|:-------------------------:
